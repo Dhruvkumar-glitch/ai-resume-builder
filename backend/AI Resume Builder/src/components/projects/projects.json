@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_projects_projects",
+  "info": {
+    "displayName": "Projects",
+    "icon": "server"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "techStack": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "githubLink": {
+      "type": "text"
+    },
+    "liveLink": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}
